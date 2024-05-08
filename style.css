@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-image: url(backr.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+header {
+    background: transparent;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 20 px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+.glavnaya-a {
+    color: #B78601;
+}
+
+.container h1 {
+    color: #fff;
+}
+
+.container span {
+    color: #B78601;
+}
+
+.home-text-container {
+    max-width: 1400px;
+    padding-left: 40px;
+    margin-top: 100px;
+}
+
+.home-text-container h2 {
+    color: #fff;
+}
+
+.home-text-container p {
+    color: #fff;
+}
+
+.home-text-container a {
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    line-height: 70px;
+    text-decoration: none;
+    border-radius: 35px;
+}
+
+
+/* ---------------- ABOUT PAGE ---------- */
+/* 
+.about-container {
+    max-width: 100%;
+    height: auto;
+    background-color: #fff;
+}
+.about-container .all-columns {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    max-width: 1400px;
+    margin: auto;
+    padding: 40px;
+    padding-top: 50px;
+    gap: 25px;
+}
+/* @media screen and (max-width: 900px) {
+    .about-container .all-columns {
+        grid-template-columns: auto auto;
+    }
+} */
+.columns img {
+    width: 100%;
+}
+
+.about-container h1 {
+    color: rgb(90, 90, 90);
+    font-family: sans-serif;
+    font-size: 28px;
+    padding: 80px 15%;
+}
+
+*/
+/* ----------- BLACK GRID ------------------------ */
+
+/* .black-container {
+    max-width: 100%;
+    height: auto;
+    background-color: #181818;
+}
+.black-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    max-width: 1400px;
+    margin: auto;
+    padding-top: 100px;
+    gap: 60px;
+    text-align: center;
+}
+.black-container .otziv{
+    color: white;
+    padding: 100px 15%;
+}
+.black-column img{
+    width: 40%;
+    border-radius: 100%;
+    line-height: 60px;
+}
+.black-column h1  {
+    color: #fff;
+    font-size: 20px;
+}
+.black-column p {
+    max-width: 351px;
+    height: 155px;
+    color: #fff;
+    height: 200px;
+    margin-left: 10%;
+    font-family: sans-serif;
+} */
+
+
+/* ----------- White Grid ------------- */
+
+/* .plitki-container {
+    max-width: 100%;
+    height: auto;
+    background-color: #fff;
+}
+.all-white-columns {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    max-width: 1300px;
+    margin: auto;
+    padding: 5% 5% 10% 5%;
+    gap: 20px;
+    text-align: center;
+}
+.white-columns {
+    color: #fff;
+    background-color: #181818;
+}
+.white-columns p{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: start;
+    padding-left: 50px;
+}
+.plitki-h1 {
+    padding-left: 21%;
+}
+.white-columns h1 {
+    font-family: sans-serif;
+    font-size: 22px;
+}
+.white-column-box img {
+    width: 100%;
+} */
+
+
+/* ------------- GRAY CONTAINER --------------------*/
+/* .gray-container {
+    max-width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(plitki-office.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.text-box {
+    padding: 120px 200px;
+}
+.text-box h1{
+    color: #fff;
+    font-size: 55px;
+    line-height: 88px;
+}
+.text-box p {
+    color: #fff;
+    font-size: 19px;
+    max-width: 814px;
+    font-family: sans-serif;
+}
+.text-box .svyaz {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 35px;
+    padding: 15px 40px;
+    text-decoration: none;
+    font-size: 20px;
+} */
+
+/* ------------ FOOTER -------------- */
+/* footer {
+    background: #181818;
+    padding-top: 50px;
+}
+.footer-container {
+    font-size: 20px;
+    color: #fff;
+    max-width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.footer-container span {
+    color: #B78601;
+} */
